@@ -1,6 +1,7 @@
 [![MasterHead](https://www.vsit.in/full-stack/images/banner.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Rohan Mane</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Student at SPPU University |"Passionate and driven student eager to learn and make a positive impact in Information Technology"
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamrohanmane&label=Profile%20views&color=0e75b6&style=flat" alt="iamrohanmane" /> </p>
 
@@ -8,11 +9,9 @@
 
 - 🌱 I’m currently learning **Data Structure & Algorithum**
 
-- 💬 Ask me about **DSA,Java , Python**
+- 💬 Ask me about **DSA,Python,frontend development**
 
 - 📫 How to reach me **rohanmane9841@gmail.com**
-
-- ⚡ Fun fact **I Think I Am Introvert**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
