@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/i_am_rohanmane" target="blank"><img src="https://img.shields.io/twitter/follow/i_am_rohanmane?logo=twitter&style=for-the-badge" alt="i_am_rohanmane" /></a> </p>
 
-- 🌱 I’m currently learning **Data Structure & Algorithum**
+- 🌱 I’m currently learning **Python,Web Developent**
 
-- 💬 Ask me about **DSA,Python,frontend development**
+- 💬 Ask me about **Python**
 
 - 📫 How to reach me **rohanmane9841@gmail.com**
 
