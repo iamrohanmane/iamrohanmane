@@ -1,15 +1,15 @@
 [![MasterHead](https://www.vsit.in/full-stack/images/banner.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Rohan Mane</h1>
-<h3 align="center">" Student at SPPU University | Open Source Enthusiastic | SSOC'23 | Interested in AIML | Linux "
+<h3 align="center">"Reserch Intern @DIAT-DRDO | SSOC'23 | Interested in Cyber Security | Linux"
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamrohanmane&label=Profile%20views&color=0e75b6&style=flat" alt="iamrohanmane" /> </p>
 
 <p align="left"> <a href="https://twitter.com/i_am_rohanmane" target="blank"><img src="https://img.shields.io/twitter/follow/i_am_rohanmane?logo=twitter&style=for-the-badge" alt="i_am_rohanmane" /></a> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **C++ / DSA**
 
-- 💬 Ask me about **Python,Web Developent **
+- 💬 Ask me about **C / C++ / TYPESCRIPT / GOLANG / PYTHON **
 
 - 📫 How to reach me **rohanmane9841@gmail.com**
 
