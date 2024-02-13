@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **C++ / DSA**
 
-- 💬 Ask me about **C / C++ / TYPESCRIPT / GOLANG / PYTHON **
+- 💬 Ask me about ****C** / **C++** / **TYPESCRIPT** / **GO** / **PYTHON** **
 
-- 📫 How to reach me **rohanmane9841@gmail.com**
+- 📫 How to reach me ****rohanmane9841@gmail.com****
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
