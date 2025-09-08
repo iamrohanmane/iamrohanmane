@@ -1,29 +1,29 @@
-<!-- Header with Profile Name and Tagline -->
-<h1 align="center">✨ Hey, I'm Rohan Mane ✨</h1>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/oYtXusoogkM8L92hYv/giphy.gif" width="50px"> Hey, I'm Rohan Mane <img src="https://media.giphy.com/media/T00z5y4U9nI5rL3HwS/giphy.gif" width="50px">
+</h1>
 <h3 align="center">🚀 Developer | ⚡ Aspiring Machine Learning Engineer | 🌍 Open Source Explorer</h3>
 
-<!-- Animated Banner / Hero Image -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Animated coding banner">
 </p>
 
 ---
 
-## 🚀 About Me  
+## 🚀 About Me
+<div align="center">
+<p>
+  I'm a passionate developer focused on building intelligent systems. Currently, my work revolves around leveraging machine learning and computer vision to create an **AI-Driven Crime Detection System**. I am constantly exploring new technologies and am particularly fascinated by the potential of Generative AI, Edge AI, and Defense Tech.
+</p>
+<p>
+  - 🔭 Currently working on: <b>AI-Driven Crime Detection System (Deep Learning + CV)</b>
+  - 🌱 Actively learning: <b>Machine Learning, Cloud Computing, NLP & Computer Vision</b>
+  - 💬 Ask me about: <b>Linux • Python • Web Development</b>
+  - 🧠 Exploring: <b>Generative AI, Edge AI, and Defense Tech Applications</b>
+  - ⚡ Fun fact: The command <code>:(){ :|:& };:</code> (aka a <b>fork bomb</b>) can crash your system. Use it wisely! 🤯
+</p>
+</div>
 
-
-- 🔭 Currently working on: **AI-Driven Crime Detection System (Deep Learning + CV)**  
-
-- 🌱 Actively learning: **Machine Learning, Cloud Computing, NLP & Computer Vision**  
-
-- 💬 Ask me about: **Linux • Python • Web Development**  
-
-- 🧠 Exploring: **Generative AI, Edge AI, and Defense Tech Applications**  
-
-- ⚡ Fun fact: The command `:(){ :|:& };:` (aka **fork bomb**) can crash your system 🤯🐧  
-
-
---- 
+---
 
 ## 📈 GitHub Statistics
 <p align="center">
@@ -56,6 +56,7 @@
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
 
   <br>
 
@@ -69,6 +70,8 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
 </p>
 
 ---
