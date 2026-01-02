@@ -27,13 +27,12 @@
 
 ## 📈 GitHub Statistics
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nyxus-git&show_icons=true&theme=onedark&hide_border=true" alt="Rohan's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyxus-git&layout=compact&theme=onedark&hide_border=true" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nyxus-git&show_icons=true&theme=onedark&hide_border=true" alt="Rohan's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nyxus-git&layout=compact&theme=onedark&hide_border=true" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nyxus-git&theme=onedark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=nyxus-git&theme=onedark&hide_border=true" alt="GitHub Streak" />
 </p>
-
 ---
 
 ## 🛠️ My Toolbox
